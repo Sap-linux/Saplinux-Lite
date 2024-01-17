@@ -12,4 +12,4 @@
 
 Download Link:
 
-https://s15.uupload.ir/files/pouryam86/saplinux/Saplinux_amd64_2024-01-11_1610.iso
+https://my.uupload.ir/dl/OD1R85M7

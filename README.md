@@ -10,6 +10,6 @@
 
 *Minimum required graphics = 256 megabytes*
 
-#Download Link:
+Download Link:
 
 https://s15.uupload.ir/files/pouryam86/saplinux/Saplinux_amd64_2024-01-11_1610.iso
